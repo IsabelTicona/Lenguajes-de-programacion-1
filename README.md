@@ -4,8 +4,6 @@ Repositorio dedicado a la recopilación de ejercicios, prácticas y fundamentos 
 
 ## 🛠️ Tecnologías y Herramientas
 * **C++** (Dev-C++)
-* **DFD** (Diagramas de Flujo de Datos)
-* **PSeInt** (Pseudocódigo)[cite: 1]
 
 ## 📂 Contenido del Repositorio
 * **Estructuras secuenciales y condicionales**
